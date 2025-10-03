@@ -1,0 +1,28 @@
+{
+  "name": "aatechs-website",
+  "version": "1.0.0",
+  "description": "AA Techs company website - Professional IT services and DevOps solutions",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server -p 3000",
+    "build": "echo 'No build process required - static HTML site'",
+    "start": "http-server -p 8080"
+  },
+  "keywords": [
+    "aatechs",
+    "it-services",
+    "devops",
+    "managed-it",
+    "technology-solutions"
+  ],
+  "author": "AA Techs",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reddomeuk/aatechs-website.git"
+  },
+  "homepage": "https://aatechs-website.pages.dev"
+}
