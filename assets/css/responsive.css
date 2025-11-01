@@ -1648,10 +1648,10 @@
         width: 16px;
     }
     .footer-area .footer-top .custom-row {
-        padding-bottom: 50px;
+        padding-bottom: 20px;
     }
     .footer-area .footer-bottom {
-        padding-top: 70px;
+        padding-top: 30px;
     }
     .header-area .navbar-wrapper > ul > li {
         line-height: 80px;
@@ -3902,7 +3902,7 @@ font-size: 29px !important;    }
 
     .who-section {
    
-    padding: 20px !important;
+    padding: 10px !important;
     }
    
 
@@ -3949,7 +3949,7 @@ margin-left: 40px;
         font-size: 14px!important;
     }
     .hero-section-wrap .hero-section-content-wrap .hero-section-content h1 {
-        font-size: 36px!important;
+                font-size: 33px !important;
         margin-bottom: 15px;
     }
     .hero-section-wrap .hero-section-content-wrap .hero-section-content p {
@@ -4060,7 +4060,8 @@ margin-left: 40px;
         padding-bottom: 100px;
     }
     .news2-area,.footer-area{
-        padding-top: 100px;
+         
+    padding: 50px 10px 20px;
     }
     .homepage2 .portfolio-footer .our-expert-team-box 
     .our-expert-team-box-inner{
